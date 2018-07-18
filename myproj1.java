@@ -4,5 +4,6 @@ class myproj1
 	{
 		System.out.println("myjava1");
 		System.out.println("myjava1");
+		System.out.println("myjava1");
 	}
 }
